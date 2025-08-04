@@ -1,0 +1,3 @@
+# Data Information
+
+This folder contains information about the dataset used for the Employee Attrition Analysis and Visualisation on Tableau project. The dataset, provided by a pharmaceutical company, includes 1,467 records and 35 feature variables (e.g., Attrition, Department, Gender, Age Group, Education Level, Education Field, Workspace Score metrics). Due to its proprietary nature and confidentiality requirements, the raw dataset is kept local and not publicly shared. The dataset served as the foundation for developing a Tableau dashboard to analyze employee turnover patterns.
